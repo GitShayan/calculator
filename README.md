@@ -1,2 +1,2 @@
 # calculator
-simple and buggy calculator that can handle unlimited input argument
+simple and buggy bash calculator that can handle unlimited input argument
